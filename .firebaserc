@@ -1,6 +1,6 @@
 {
   "projects": {
-    "staging": "emails-show-staging",
+    "staging": "Emails-show-staging",
     "production": "emails-show-production"
   }
 }
